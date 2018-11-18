@@ -1,0 +1,41 @@
+Simple Complete Coverage: No
+
+More than 1 nurse:
+       0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23
+Mon    0  0  0  0  0  0  0  0  1  1  1  1  1  1  1  1  0  0  0  0  0  0  0  0
+Tues   0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Wed    0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Thur   0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Fri    0  0  0  0  0  0  0  0  1  1  1  1  1  1  1  1  0  0  0  0  0  0  0  0
+
+No nurses:
+       0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23
+Mon    0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Tues   0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Wed    0  0  0  0  0  0  0  0  1  1  1  1  1  1  1  1  0  0  0  0  0  0  0  0
+Thur   0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Fri    0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Exactly 1 nurse
+       0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23
+Mon    1  1  1  1  1  1  1  1  0  0  0  0  0  0  0  0  1  1  1  1  1  1  1  1
+Tues   1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+Wed    1  1  1  1  1  1  1  1  0  0  0  0  0  0  0  0  1  1  1  1  1  1  1  1
+Thur   1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+Fri    1  1  1  1  1  1  1  1  0  0  0  0  0  0  0  0  1  1  1  1  1  1  1  1
+
+Minimal nurses schedule
+       0   1   2   3   4   5   6   7   8     9     10    11    12    13    14    15    16  17  18  19  20  21  22  23
+Mon    CT  CT  CT  CT  CT  CT  CT  CT  BK,ER BK,ER BK,ER BK,ER BK,ER BK,ER BK,ER BK,ER PC  PC  PC  PC  PC  PC  PC  PC
+Tues   BK  BK  BK  BK  BK  BK  BK  BK  CT    CT    CT    CT    CT    CT    CT    CT    ER  ER  ER  ER  ER  ER  ER  ER
+Wed    PC  PC  PC  PC  PC  PC  PC  PC                                                  ER  ER  ER  ER  ER  ER  ER  ER
+Thur   PC  PC  PC  PC  PC  PC  PC  PC  CT    CT    CT    CT    CT    CT    CT    CT    BK  BK  BK  BK  BK  BK  BK  BK
+Fri    ER  ER  ER  ER  ER  ER  ER  ER  BK,PC BK,PC BK,PC BK,PC BK,PC BK,PC BK,PC BK,PC CT  CT  CT  CT  CT  CT  CT  CT
+
+Minimal shifts schedule
+       0   1   2   3   4   5   6   7   8   9   10  11  12  13  14  15  16  17  18  19  20  21  22  23
+Mon    CT  CT  CT  CT  CT  CT  CT  CT  BK  BK  BK  BK  BK  BK  BK  BK  PC  PC  PC  PC  PC  PC  PC  PC
+Tues   BK  BK  BK  BK  BK  BK  BK  BK  CT  CT  CT  CT  CT  CT  CT  CT  ER  ER  ER  ER  ER  ER  ER  ER
+Wed    PC  PC  PC  PC  PC  PC  PC  PC                                  ER  ER  ER  ER  ER  ER  ER  ER
+Thur   PC  PC  PC  PC  PC  PC  PC  PC  CT  CT  CT  CT  CT  CT  CT  CT  BK  BK  BK  BK  BK  BK  BK  BK
+Fri    ER  ER  ER  ER  ER  ER  ER  ER  BK  BK  BK  BK  BK  BK  BK  BK  CT  CT  CT  CT  CT  CT  CT  CT
