@@ -1,0 +1,4 @@
+backpack,bag of sand,blanket,ball bearings,bell,book of lore,bottle of ink,candles,crowbar,sealing wax,flask of oil,hammer,hempen rope,lamp,hooded lantern,ink pen,pitons,rations,sheets of parchment,small knife,string,tinderbox,torches,waterskin,soap
+Baggi:backpack,ball bearings,string,bell,candles,crowbar,hammer,pitons,hooded lantern,flask of oil,rations,tinderbox,waterskin,hempen rope
+Boddynock:backpack,crowbar,hammer,pitons,torches,tinderbox,rations,waterskin,hempen rope
+Kallista:backpack,book of lore,bottle of ink,ink pen,sheets of parchment,bag of sand,small knife

@@ -1,0 +1,25 @@
+mkdir day1
+mkdir day2
+mkdir day3
+mkdir day3
+ls
+cd day1
+mkfile doc1
+mkfile doc2
+ls
+mv doc1 day2
+mv doc2 day2
+ls
+cd root
+cd day2
+ls
+mv doc1 day4
+mv doc2 day3
+ls
+cd root
+cd day4
+cd day3
+ls
+rm doc3
+rm doc1
+ls

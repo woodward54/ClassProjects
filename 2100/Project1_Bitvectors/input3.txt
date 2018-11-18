@@ -1,0 +1,3 @@
+backpack,bedroll,candles,pitons,costumes,book of lore,disguise kit,hammer,hempen rope,mess kit,rations,tinderbox,torches,waterskin,blanket
+Leucis:backpack,bedroll,costumes,candles,rations,gold coins,waterskin,disguise kit
+Nadarr:backpack,bedroll,mess kit,tinderbox,torches,rations,waterskin,hempen rope

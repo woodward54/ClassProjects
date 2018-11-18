@@ -1,0 +1,29 @@
+Nurse One
+Monday 00-07
+Wednesday 00-07
+Thursday 00-07
+Friday 00-07
+
+Nurse Two
+Monday 16-23
+Tuesday 16-23
+Thursday 16-23
+Friday 16-23
+
+Nurse Four
+Monday 03-10
+Tuesday 00-07
+Wednesday 16-23
+Friday 13-20
+
+Nurse Six
+Monday 13-20
+Tuesday 13-20
+Wednesday 13-20
+Thursday 13-20
+
+Nurse Eight
+Tuesday 03-10
+Wednesday 03-10
+Thursday 03-10
+Friday 03-10

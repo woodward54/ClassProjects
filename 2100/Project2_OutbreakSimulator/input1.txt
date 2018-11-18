@@ -1,0 +1,13 @@
+Infectious:1
+Recovered:2
+Display:2
+s,s,s,s,s,s,s,s,s,s
+s,s,s,s,s,s,s,s,s,s
+s,s,s,s,s,s,s,s,s,s
+s,s,s,s,s,s,s,s,s,s
+s,s,s,s,i,i,s,s,s,s
+s,s,s,s,i,i,s,s,s,s
+s,s,s,s,s,s,s,s,s,s
+s,s,s,s,s,s,s,s,s,s
+s,s,s,s,s,s,s,s,s,s
+s,s,s,s,s,s,s,s,s,s

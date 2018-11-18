@@ -1,0 +1,41 @@
+Simple Complete Coverage: Yes
+
+More than 1 nurse:
+       0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23
+Mon    0  0  0  0  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  
+Tues   0  0  0  0  0  1  1  1  0  1  1  1  1  0  0  0  1  1  1  1  1  1  1  1
+Wed    0  0  0  0  0  0  1  1  0  0  0  0  1  1  0  0  1  1  1  1  1  1  1  1
+Thur   0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Fri    1  1  1  1  1  1  1  1  0  0  0  0  0  1  1  1  1  1  1  1  1  0  0  0
+
+No nurses:
+       0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23
+Mon    0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Tues   0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Wed    0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Thur   0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Fri    0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+Exactly 1 nurse
+       0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23
+Mon    1  1  1  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+Tues   1  1  1  1  1  0  0  0  1  0  0  0  0  1  1  1  0  0  0  0  0  0  0  0
+Wed    1  1  1  1  1  1  0  0  1  1  1  1  0  0  1  1  0  0  0  0  0  0  0  0
+Thur   1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+Fri    0  0  0  0  0  0  0  0  1  1  1  1  1  0  0  0  0  0  0  0  0  1  1  1
+
+Minimal nurses schedule
+       0   1   2   3   4     5     6     7     8     9     10    11    12    13    14    15    16    17    18    19    20    21    22    23
+Mon    KK  KK  KK  KK  PF,KK PF,KK PF,KK PF,KK TL,PF TL,PF TL,PF TL,PF TL    TL    TL    TL    HC,AW HC,AW HC,AW HC,AW HC,AW HC,AW HC,AW HC,AW
+Tues   KK  KK  KK  KK  KK    KK,HC KK,HC KK,HC HC    HC,AW HC,AW HC,AW HC,AW AW    AW    AW    TL,AW TL    TL    TL    TL    TL    TL    TL
+Wed    KK  KK  KK  KK  KK    KK    KK,HC KK,HC HC    HC    HC    HC    PF,HC PF,HC PF    PF    TL,PF TL,PF TL,PF TL,PF TL    TL    TL    TL
+Thur   KK  KK  KK  KK  KK    KK    KK    KK    PF    PF    PF    PF    PF    PF    PF    PF    AW    AW    AW    AW    AW    AW    AW    AW
+Fri    TL  TL  TL  TL  TL    TL    TL    TL    HC    HC    HC    HC    HC    PF,HC PF,HC PF,HC PF,AW PF,AW PF,AW PF,A  PF,AW AW    AW    AW
+
+Minimal shifts schedule
+       0   1   2   3   4   5     6     7     8     9     10    11    12    13    14   15   16    17    18    19    20  21  22  23
+Mon    KK  KK  KK  KK  KK  KK    KK    KK    TL    TL    TL    TL    TL    TL    TL   TL   HC    HC    HC    HC    HC  HC  HC  HC
+Tues   KK  KK  KK  KK  KK  KK,HC KK,HC KK,HC HC    HC,AW HC,AW HC,AW HC,AW AW    AW   AW   TL,AW TL    TL    TL    TL  TL  TL  TL
+Wed    KK  KK  KK  KK  KK  KK    KK,HC KK,HC HC    HC    HC    HC    PF,HC PF,HC PF   PF   TL,PF TL,PF TL,PF TL,PF TL  TL  TL  TL
+Thur   KK  KK  KK  KK  KK  KK    KK    KK    PF    PF    PF    PF    PF    PF    PF   PF   AW    AW    AW    AW    AW  AW  AW  AW
+Fri    TL  TL  TL  TL  TL  TL    TL    TL    HC    HC    HC    HC    HC    HC    HC   HC   AW    AW    AW    AW    AW  AW  AW  AW

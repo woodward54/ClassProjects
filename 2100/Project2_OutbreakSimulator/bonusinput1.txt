@@ -1,0 +1,14 @@
+Recovered:2
+Display:3
+Reach:2
+Probability:0.2
+s,s,s,s,s,s,s,s,s,s,s
+s,s,s,s,s,s,s,s,s,s,s
+s,s,s,s,s,s,s,s,s,s,v
+s,s,s,s,s,s,s,s,s,s,i
+s,s,s,s,i,i,s,s,s,s,s
+s,s,s,s,i,i,r,s,s,s,r
+s,s,s,s,s,s,s,s,s,s,r
+s,s,s,s,s,s,s,s,s,s,s
+s,s,s,s,s,s,s,s,s,s,s
+s,s,s,s,s,s,s,s,s,s,s

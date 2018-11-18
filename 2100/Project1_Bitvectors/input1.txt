@@ -1,0 +1,3 @@
+backpack,book of lore,lamp,bottle of ink,chest,fine clothes,string,ink pen,scroll cases,tinderbox
+Arjhan:chest,scroll cases,fine clothes,bottle of ink,ink pen
+Makaria:backpack,book of lore,bottle of ink,ink pen

@@ -1,0 +1,10 @@
+Students: 3
+1. david      woodward   2 
+2. james      young      2 
+3. ausin      odell      3 
+Courses: 2
+1. Algebra    blb        10AM      
+2. Calc       blb        11AM      
+Enrollment: 2
+0. 1 1 100 100 -1 -1 -1 -1 -1 -1 -1 -1 100 A
+1. 2 2 0 0 0 -1 -1 -1 -1 -1 -1 -1 0 F

@@ -1,0 +1,3 @@
+Korinn:backpack,ball bearings,string,bell,candles,crowbar,hammer,pitons,hooded lantern,flask of oil,rations,tinderbox,waterskin,hempen rope
+Mival:chest,scroll cases,fine clothes,bottle of ink,ink pen,lamp,flask of oil,sheets of paper,vial of perfume,sealing wax,soap
+Alton:backpack,crowbar,hammer,pitons,torches,tinderbox,rations,waterskin,hempen rope
